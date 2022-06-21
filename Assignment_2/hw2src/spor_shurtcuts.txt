@@ -1,0 +1,10 @@
+a : basketboll
+b : bisiklet
+c : team sport
+d : self defend
+e : yoga and meditation
+f : skiing
+g : climbing
+l : fitness
+k : sky diving
+s : swimming

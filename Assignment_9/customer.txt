@@ -1,0 +1,5 @@
+145,Emirhan Utku Demir,5447455,Mahmudiye/Karaman,
+178,Ayse Yildirim,542435,Suduragi/Karaman,
+310,Hasan Kral,563521,mahalle ve adrwes bilgisi,
+785,ali,6909025,veli,
+785,ali,45,vlei,
